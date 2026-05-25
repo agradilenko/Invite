@@ -1,8 +1,6 @@
-Фоновая музыка подключена на странице.
+Фоновая музыка — два разных трека.
 
-Файлы:
-  music.mp3       — «Спокойное пиано»
-  music-test.mp3  — «Тихая мелодия»
+  music.mp3       — «Мелодия надежды» (At the End of Hope, OpenGameArt, CC0)
+  music-test.mp3  — «Ночная тишина» (Night Calm, OpenGameArt, FoxSynergy)
 
-Выбор трека — в правом верхнем углу страницы.
-Лицензия: CC0 / public domain (OpenGameArt — «At the End of Hope»).
+Выбор — в правом верхнем углу страницы.

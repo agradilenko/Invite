@@ -26,7 +26,12 @@ npx serve .
 
 ## Музыка
 
-В `assets/`: `music.mp3` и `music-test.mp3`. Выбор — в правом верхнем углу страницы.
+Два разных трека в `assets/`:
+
+- `music.mp3` — **Мелодия надежды** ([At the End of Hope](https://opengameart.org/content/at-the-end-of-hope), CC0)
+- `music-test.mp3` — **Ночная тишина** ([Night Calm](https://opengameart.org/content/night-calm))
+
+Переключение — в правом верхнем углу страницы.
 
 ---
 
